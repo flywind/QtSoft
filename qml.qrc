@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>content/images/icon_close.svg</file>
+        <file>content/images/icon_maximize.svg</file>
+        <file>content/images/icon_minimize.svg</file>
+        <file>content/images/icon_restore.svg</file>
+        <file>content/widgets/UIconButton.qml</file>
+        <file>content/images/icon_skin.svg</file>
+        <file>FramelessWindow.qml</file>
+        <file>WindowAdjuster.qml</file>
+        <file>content/widgets/UIconTextButton.qml</file>
+        <file>content/images/icon_more_16.svg</file>
+        <file>content/images/icon_next_page_16.svg</file>
+        <file>content/images/icon_close_project_16.svg</file>
+        <file>content/images/icon_new_project_16.svg</file>
+        <file>content/images/icon_open_project_16.svg</file>
+        <file>content/images/icon_save_16.svg</file>
+        <file>content/widgets/UTabButton.qml</file>
+        <file>content/widgets/UIconAboveTextButton.qml</file>
+        <file>content/images/icon_workspace_24.svg</file>
+        <file>content/images/icon_about_24.svg</file>
+        <file>content/images/icon_full_screen_24.svg</file>
+        <file>content/images/icon_help_24.svg</file>
+        <file>content/images/icon_home_24.svg</file>
+        <file>content/images/icon_lang_24.svg</file>
+        <file>content/images/icon_update_24.svg</file>
+        <file>content/images/icon_connect_device_24.svg</file>
+        <file>content/images/icon_project_test_24.svg</file>
+        <file>content/images/icon_remove_help_24.svg</file>
+        <file>content/images/icon_switch_user_24.svg</file>
+        <file>content/images/icon_unlink_24.svg</file>
+        <file>content/images/icon_close_project_24.svg</file>
+        <file>content/images/icon_new_project_24.svg</file>
+        <file>content/images/icon_open_project_24.svg</file>
+        <file>content/images/icon_save_24.svg</file>
+        <file>content/Header.qml</file>
+        <file>content/Footer.qml</file>
+    </qresource>
+</RCC>
