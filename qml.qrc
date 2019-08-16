@@ -36,5 +36,9 @@
         <file>content/images/icon_save_24.svg</file>
         <file>content/Header.qml</file>
         <file>content/Footer.qml</file>
+        <file>content/Content.qml</file>
+        <file>content/images/icon_toright.svg</file>
+        <file>content/images/icon_toleft.svg</file>
+        <file>content/widgets/UBlock.qml</file>
     </qresource>
 </RCC>

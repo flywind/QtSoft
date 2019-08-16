@@ -22,7 +22,7 @@ ApplicationWindow {
         Rectangle {
             anchors.fill: parent
             anchors.margins: window.padding
-            color: Material.backgroundColor // rgb 35 35 35"#232323"
+            color: "#232323"//Material.backgroundColor // rgb 35 35 35"#232323"
 
             radius: 0
 

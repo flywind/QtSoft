@@ -19,15 +19,10 @@ FramelessWindow {
         spacing: 0
         Header {}
         Rectangle {
-            id: content
+            id: softContent
             Layout.fillWidth: true
             Layout.fillHeight: true
-            width: 100
-            height: 30
-            color: "#232323"
-            StackView {
-                anchors.fill: parent
-            }
+            Content {}
         }
         Footer {}
     }
